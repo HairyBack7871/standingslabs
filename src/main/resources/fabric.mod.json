@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "standingslabs",
+	"version": "${version}",
+	"name": "Standing Slabs",
+	"description": "Adds vertical versions of every slab in the game (including modded ones!) with smart flammability and fuel support.",
+	"authors": [
+		"HairyBack"
+	],
+	"contact": {
+		"homepage": "https://github.com/HairyBack7871/standingslabs",
+		"sources": "https://github.com/HairyBack7871/standingslabs"
+	},
+	"license": "MIT",
+	"icon": "assets/standingslabs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [ "hairyback.standingslabs.StandingSlabsMod" ],
+		"client": [ "hairyback.standingslabs.StandingSlabsClient" ]
+	},
+	"mixins": [
+		"standingslabs.mixins.json",
+		{
+			"config": "standingslabs.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": ">=1.21.1 <1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

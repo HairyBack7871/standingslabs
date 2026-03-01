@@ -1,0 +1,39 @@
+/give @p minecraft:tuff_brick_slab
+/give @p slab
+/give @p standingslabs:vertical_jungle_slab
+/give @p standingslabs:vertical
+/time set day
+/give @p standingslabs:vertical_birch_slab
+/give @p standingslabs:vertical_acacia_slab
+/give @p standingslabs:vertical_andesite_slab
+/give @p standingslabs:vertical_birch_slab
+/give @p standingslabs:vertical_cobblestone_slab
+/give @p standingslabs:vertical_acacia_slab
+/give @p standingslabs:vertical_
+/give @p standingslabs:vertical_birch_slab
+/give @p standingslabs:vertical_cobblestone_slab
+/give @p standingslabs:vertical_acacia_slab
+/give @p standingslabs:vertical_birch_slab
+/give @p standingslabs:vertical_cobblestone_slab
+/give @p standingslabs:vertical_blackstone_slab
+/time set day
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/time set day
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
