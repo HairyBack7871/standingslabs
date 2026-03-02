@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="src/main/resources/assets/standingslabs/icon.png" width="160" alt="Standing Slabs Icon">
+</p>
+
+
+
+
 # **Standing Slabs**
 
 A mod for Minecraft that gives you **vertical slabs for every block you love**. Standing Slabs lets you place slabs upright, giving every slab type in the game a matching vertical version. It opens up new ways to shape walls, decorate builds, and add detail that isn’t possible with normal slabs. All standing slabs fit naturally into the game, using the same textures, sounds, and behavior you already know—just turned on their side so you can build with them in fresh, creative ways. You can craft them easily in survival by **shapelessly converting any slab into its standing version**, and convert them back whenever you need.
